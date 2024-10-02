@@ -6,9 +6,22 @@ Description: Unit 2 homework 1
 
 print('Problem 1'.center(20,'-'))
 
-
+print("First idea: A witch searching for her lost familiar")
+print("Second idea: A child gets lost in the woods and the animals help them find their way back")
+print("Third idea: A person has an encounter with a skin walker while camping in the woods")
 
 print('Problem 2'.center(20,'-'))
+
+cat = r"""
+▄───▄
+█▀█▀█
+█▄█▄█
+─███──▄▄
+─████▐█─█
+─████───█
+─▀▀▀▀▀▀▀
+"""
+print(cat)
 
 print('Problem 3'.center(20,'-'))
 
